@@ -55,15 +55,8 @@ It is a web based, end-to-end encrypted chat application to let users chat one-t
 ## Instructions To Run Locally
 You should have Node and npm installed (installed together).
 
-- Clone the repository.
-- 
 
 
-
-## Contributors
-1) [Ritik Kumar](https://github.com/iamr-kumar)
-2) [Muskan Agarwal](https://github.com/muskan278) 
-3) [Tushar Agarwal](https://github.com/TusharYaar)
 
 
 
