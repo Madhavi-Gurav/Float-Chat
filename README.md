@@ -15,7 +15,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project.
 
 <!-- <p align="center"> 
     <img src="assets/images/bot_1.jpeg"  width="1000">
